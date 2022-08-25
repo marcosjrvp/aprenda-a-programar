@@ -11,8 +11,6 @@ profissao = "Analista de Suporte"
 idade = 34
 lugardesejado = "Disney"
 
-console.log("O meu nome é :", nome)
-console.log("O meu email é :", email)
-console.log("A minha profissão é :", profissao)
-console.log("A minha idade é :", idade)
-console.log("O lugar que eu desejo conhecer é :", lugardesejado)
+
+
+console.log("Olá " + nome + " ! Somos aqui da agência de turismo Viagem dos Sonhos. Estamos te escrevendo este email, pois acabamos de confirmar as compras das passagens aéreas para " + lugardesejado + ". Confirma pra gente alguns dados? A sua idade é " + idade + " , você é " + profissao + " e o seu email é " + email + " ? Ficamos no aguardo. Muito obrigado e boa viagem! :D ")
