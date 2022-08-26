@@ -1,0 +1,1 @@
+*** ***Os repositórios são os ambientes criados para armazenar seus códigos. Você pode possuir um ou mais repositórios, públicos ou privados, locais ou remotos, e eles podem armazenar não somente os próprios códigos a serem modificados, mas também imagens, áudios, arquivos e outros elementos relacionados ao seu projeto.*** ***
